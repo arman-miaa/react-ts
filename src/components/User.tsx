@@ -24,3 +24,4 @@ const User = ({ name, age, isRegistered,lang,user }: UserProps) => {
 };
 
 export default User;
+
